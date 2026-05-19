@@ -1,6 +1,6 @@
 # 🎬 YouTube AI Automation System
 
-> Complete AI-powered YouTube content pipeline — from idea generation to video upload.
+> Complete AI-powered YouTube content pipeline  from idea generation to video upload.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green) ![Zapier](https://img.shields.io/badge/Zapier-Automation-orange) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
@@ -8,7 +8,7 @@
 
 ## 🚀 What it does
 
-No manual scripting. No thumbnail design. No copy-pasting descriptions. This pipeline handles your entire YouTube content workflow automatically — triggered weekly by Zapier and powered by GPT-4o.
+No manual scripting. No thumbnail design. No copy-pasting descriptions. This pipeline handles your entire YouTube content workflow automatically triggered weekly by Zapier and powered by GPT-4o.
 
 | Step | Tool | Output |
 |------|------|--------|
